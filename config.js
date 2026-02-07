@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "i love you so much riya u have no idea ur the first person who i think off when i wake up and the last person who i think of before i go to sleep.",
-        message: "I bought you chocolates cuz hehe i love youu the mostestestestest",
+        message: "Youre the best thing thats ever came in my life and i never wanna let you go ever babyi love you so fucking much",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
